@@ -42,12 +42,15 @@ Setiap perubahan (tambah/hapus/update) memerlukan konfirmasi.
 Program akan kembali ke menu utama setelah selesai menjalankan fungsi.
 
 Teknologi & Library
+
 Python
-maskpass: Untuk keamanan input password.
-tabulate: Menampilkan data dalam bentuk tabel.
-datetime: Untuk mencetak waktu pada struk belanja.
+
+- maskpass: Untuk keamanan input password.
+- tabulate: Menampilkan data dalam bentuk tabel.
+- datetime: Untuk mencetak waktu pada struk belanja.
 
 Cara Menjalankan
-Pastikan semua library yang dibutuhkan telah terinstal (pip install maskpass tabulate).
-Jalankan file Python menggunakan terminal atau IDE.
-Ikuti panduan login dan pilih fitur yang diinginkan.
+
+1. Pastikan semua library yang dibutuhkan telah terinstal (pip install maskpass tabulate).
+2. Jalankan file Python menggunakan terminal atau IDE.
+3. Ikuti panduan login dan pilih fitur yang diinginkan.
