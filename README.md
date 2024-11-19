@@ -1,5 +1,5 @@
-****Grote Cellular Management System
-****
+**Grote Cellular Management System
+**
 Sistem manajemen toko Grote Cellular dirancang untuk mengelola data smartphone, termasuk melihat daftar, menambahkan, menghapus, memperbarui, membeli smartphone, dan fitur sorting. Program ini memiliki dua jenis akses: Admin dan User.
 
 Fitur
