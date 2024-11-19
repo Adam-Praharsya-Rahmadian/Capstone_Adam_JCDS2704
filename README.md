@@ -3,6 +3,7 @@ Sistem manajemen toko Grote Cellular dirancang untuk mengelola data smartphone, 
 
 Fitur
 **Admin**
+
 -Melihat Daftar Smartphone: Menampilkan semua data smartphone.
 -Menambahkan Smartphone: Menambahkan smartphone baru ke daftar.
 -Menghapus Smartphone: Menghapus smartphone dari daftar.
@@ -10,6 +11,7 @@ Fitur
 -Fitur Sorting: Mengurutkan smartphone berdasarkan kolom (Nama, Stok, Harga, Merek) secara ASC/DESC.
 
 **User**
+
 -Melihat Daftar Smartphone: Melihat semua smartphone yang tersedia.
 -Melihat Detail Smartphone: Informasi detail tentang smartphone tertentu.
 -Membeli Smartphone: Menambahkan smartphone ke keranjang dan mencetak struk belanja.
